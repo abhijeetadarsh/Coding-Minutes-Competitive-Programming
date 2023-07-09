@@ -8,10 +8,11 @@ Here is a list of programming questions categorized by different topics and thei
 
 ### 9. Pigeonhole Principle
 
-1. [Divisible Subset](https://www.codechef.com/problems/DIVSUBS)
-2. [The Gray-Similar Code](https://www.codechef.com/problems/GRAYSC)
-3. [Holiday Accommodation](https://www.spoj.com/problems/HOLI/)
-3. [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
+1. <a href="https://www.codechef.com/problems/DIVSUBS" target="_blank">Divisible Subset</a>
+2. <a href="https://www.codechef.com/problems/GRAYSC" target="_blank">The Gray-Similar Code</a>
+3. <a href="https://www.spoj.com/problems/HOLI/" target="_blank">Holiday Accommodation</a>
+4. <a href="https://leetcode.com/problems/subarray-sums-divisible-by-k/" target="_blank">Subarray Sums Divisible by K</a>
+
 
 ## Contribution
 
